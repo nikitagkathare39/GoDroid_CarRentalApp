@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">GoDroid</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Names</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="btn_link_to_register">Not a member? Sign up now.</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="has_registered_login">Spoorthi is good.</string>
+    <string name="phone">Phone</string>
+    <string name="title_activity_home">Find Car</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="booking">View Cars</string>
+    <string name="search_cars">Search Cars</string>
+    <string name="my_profile">My Profile</string>
+    <string name="home">Home</string>
+    <string name="share">Share</string>
+    <string name="feedback">Feedback</string>
+    <string name="about_us">About Us</string>
+    <string name="logout">Logout</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="select_by_car_category">SELECT CAR BY CATEGORY</string>
+
+    <string-array name="car_option">
+        <item>All</item>
+        <item>7 Seater</item>
+        <item>4 Seater</item>
+        <item>2 Seater</item>
+    </string-array>
+
+    <string-array name="car_size">
+        <item>Mini</item>
+        <item>Economy</item>
+        <item>SUV</item>
+        <item>7 Seater</item>
+        <item>Convertible</item>
+    </string-array>
+
+    <string name="title_activity_destination">Choose Destination</string>
+    <string name="my_destination">My destination</string>
+    <string name="_12_new_crescent_road">Nygatan 11, 24231 Horby</string>
+    <string name="distance_by_kilometers">Distance by kilometers</string>
+    <string name="price_estimation">Rental Price Estimation</string>
+    <string name="title_activity_location">Destination</string>
+    <string name="title_activity_booking">Book a car</string>
+    <string name="title_activity_account">Account</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="profile">Profile</string>
+    <string name="reservation">Reservation</string>
+    <string name="title_activity_checkout">Make Payment</string>
+    <string name="info">Policy &amp; Terms</string>
+    <string name="title_activity_product">ProductActivity</string>
+    <string name="reset_password">Enter your email to reset your password</string>
+    <string name="password_reset_message">Password recovery instruction has been sent to you</string>
+    <string name="hint__email">email</string>
+    <string name="mText">User</string>
+    <string name="locality">Locality</string>
+    <string name="city">city</string>
+    <string name="state">state</string>
+</resources>

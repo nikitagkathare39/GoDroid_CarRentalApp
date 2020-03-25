@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:id="@+id/one" android:checkableBehavior="none">
+        <item
+            android:id="@+id/action_booking"
+            android:icon="@drawable/booking"
+            android:title="@string/booking" />
+    </group>
+
+    <group android:id="@+id/search_car" android:checkableBehavior="none">
+        <item
+            android:id="@+id/action_search"
+            android:icon="@drawable/booking"
+            android:title="@string/search_cars" />
+    </group>
+
+    <group android:id="@+id/home" android:checkableBehavior="none">
+        <item
+            android:id="@+id/action_share"
+            android:icon="@drawable/share"
+            android:actionProviderClass="android.widget.ShareActionProvider"
+            android:title="@string/share" />
+    </group>
+
+    <group android:id="@+id/four" android:checkableBehavior="none">
+        <item
+            android:id="@+id/action_profile"
+            android:icon="@drawable/user"
+            android:title="@string/my_profile" />
+    </group>
+
+    <group android:id="@+id/about" android:checkableBehavior="none">
+        <item
+            android:id="@+id/action_about"
+            android:icon="@drawable/home"
+            android:title="@string/about_us" />
+    </group>
+
+    <group android:id="@+id/info" android:checkableBehavior="none">
+        <item
+            android:id="@+id/action_info"
+            android:icon="@drawable/home"
+            android:title="@string/info" />
+    </group>
+
+    <group android:id="@+id/five" android:checkableBehavior="none">
+        <item
+            android:id="@+id/action_logout"
+            android:icon="@drawable/logout"
+            android:title="@string/logout" />
+    </group>
+
+
+</menu>

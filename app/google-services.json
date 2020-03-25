@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "258875423243",
+    "firebase_url": "https://godroid-581e0.firebaseio.com",
+    "project_id": "godroid-581e0",
+    "storage_bucket": "godroid-581e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258875423243:android:b30eacc0488cbd1500650e",
+        "android_client_info": {
+          "package_name": "com.project.dbmsse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "258875423243-04v5jqk0fktuckci4gu1frdjtb94ujes.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx5Yk9e1SJnMwnWtvcawYHxIUD_k9ml38"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "258875423243-04v5jqk0fktuckci4gu1frdjtb94ujes.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

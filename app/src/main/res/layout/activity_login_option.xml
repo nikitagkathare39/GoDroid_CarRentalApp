@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg"
+    tools:context="com.project.dbmsse.LoginOptionActivity">
+
+    <ImageView
+        android:layout_width="127dp"
+        android:layout_height="95dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="center"
+        android:layout_marginLeft="100dp"
+        android:layout_marginTop="134dp"
+        android:contentDescription="@string/app_name"
+        android:src="@drawable/rentone" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:orientation="horizontal"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:gravity="bottom">
+
+        <Button
+            android:id="@+id/sign_in"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginRight="4dp"
+            android:layout_weight="1"
+            android:background="@color/colorAccent"
+            android:text="SIGN IN"
+            android:textColor="@color/colorWhite"
+            android:textSize="13sp" />
+
+        <Button
+            android:id="@+id/sign_up"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:textColor="@color/colorWhite"
+            android:layout_marginLeft="4dp"
+            android:text="SIGN UP"
+            android:textSize="13sp"
+            android:background="@color/colorAccent"/>
+
+    </LinearLayout>
+
+</RelativeLayout>
